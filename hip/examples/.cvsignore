@@ -1,0 +1,8 @@
+hip_example
+.deps
+.libs
+libmp3hip.la
+Makefile
+Makefile.in
+*.o
+*.lo

@@ -1,0 +1,10 @@
+Makefile
+Makefile.in
+*.debhelper
+files
+libmp3hip-dev
+libmp3hip0
+libmp3hip0.substvars
+python-hip
+python-hip.substvars
+tmp

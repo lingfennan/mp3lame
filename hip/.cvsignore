@@ -9,3 +9,10 @@ config.status
 config.log
 config.cache
 config.h
+config.guess
+config.sub
+depcomp
+install-sh
+ltmain.sh
+missing
+mkinstalldirs

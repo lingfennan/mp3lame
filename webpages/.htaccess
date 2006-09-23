@@ -16,6 +16,8 @@ RedirectPermanent /refs.html http://lame.sourceforge.net/refs.php
 RedirectPermanent /speed.html http://lame.sourceforge.net/speed.php
 RedirectPermanent /using.html http://lame.sourceforge.net/using.php
 
+RedirectPermanent /download/download.html http://lame.sourceforge.net/download.php
+
 RedirectPermanent /gpsycho/abr.html http://lame.sourceforge.net/abr.php
 RedirectPermanent /gpsycho/gpsycho.html http://lame.sourceforge.net/gpsycho.php
 RedirectPermanent /gpsycho/ms_stereo.html http://lame.sourceforge.net/ms_stereo.php

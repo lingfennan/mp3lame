@@ -42,7 +42,7 @@
 
 </ul>
 
-<h3>Documentation:</h3>
+<h3>Documentation</h3>
 
 <ul>
 
@@ -50,7 +50,9 @@
 
   <li><a href="tech-FAQ.txt">Technical FAQ</a></li>
 
-  <li><a href="doc/html/index.html">Program documentation (LAME 3.96)</a></li>
+  <li><a
+  href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/index.html">Program
+  documentation (in CVS)</a></li>
 
 </ul>
 

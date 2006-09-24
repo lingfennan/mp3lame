@@ -46,7 +46,7 @@
 
 <ul>
 
-  <li><a href="USAGE">Guide to command line options</a></li>
+  <li><a href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/USAGE">Guide to command line options (in CVS)</a></li>
 
   <li><a href="tech-FAQ.txt">Technical FAQ</a></li>
 

@@ -405,7 +405,7 @@ support.
 
 <h3><a name="Shame">HALL OF SHAME</a></h3>
 
-<h4>The following companies/products have bee known to infringe Lame copyright
+<h4>The following companies/products have been known to infringe Lame copyright
 by not respecting the terms and conditions of our license.</h4>
 
 <ul>

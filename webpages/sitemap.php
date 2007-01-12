@@ -24,8 +24,7 @@
 </div>
 
 <div style="float: right;"><a href="http://www.jedit.org"><img
-src="images/jedit.png" height="40px" width="120px" border="0" alt="Made with
-jEdit" /></a></div>
+src="images/jedit.png" height="40px" width="120px" border="0" alt="Made with jEdit" /></a></div>
 
 <ul class="sitemap">
 
@@ -42,7 +41,7 @@ jEdit" /></a></div>
 
       <li><a href="links.php">Links</a> - Links to other pages about MP3 encoding and software that uses LAME.</li>
 
-      <li><a href="">History</a> - LAME development history/changelog.</li>
+      <li><a href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD">History</a> - LAME development history/changelog.</li>
 
       <li><a href="gpsycho.php">Gpsycho</a> - Information about the Gpsycho psychoacoustic model.
         <ul>
@@ -108,7 +107,7 @@ jEdit" /></a></div>
       <li><a href="gpsycho.php">Gpsycho</a> - Information about the Gpsycho
       psychoacoustic model.</li>
 
-      <li><a href="">History</a> - LAME development history and changelog.</li>
+      <li><a href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD">History</a> - LAME development history and changelog.</li>
 
       <li><a href="refs.php">References</a> - References to documents dealing
       with MP3 encoding and psychoacoustics.</li>

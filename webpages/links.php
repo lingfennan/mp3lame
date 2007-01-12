@@ -337,6 +337,15 @@ href="mailto:rjamorim@users.sourceforge.net">Webmaster</a>.</i></p>
   </li>
   
   <li>
+  	<a href="http://www.ubercaster.com/">Übercaster</a> Podcast production suite for Macintosh.
+  </li>
+  
+  <li>
+  	<a href="http://www.audioease.com/">Audioease BarbaBatch</a> Batch audio file converter 
+  	for Macintosh.
+  </li>
+  
+  <li>
   <a href="http://www.hairersoft.com/Amadeus.html">Amadeus II</a> (Mac) Manipulate, create
   and analyze sounds.
   </li>
@@ -485,9 +494,16 @@ you are now complying with our license, please contact us.</strong></p>
 
 <ul>
 
-  <li><a href="http://www.rarewares.org/">RareWares</a> offers precompiled
-  binaries optimized for G4 (faster than FINK's) machines, besides the standard
-  G3 binaries. Also, they tend to update their binaries faster than FINK.</li>
+  <li>
+  	<a href="http://www.rarewares.org/">RareWares</a> offers precompiled binaries 
+  	optimized for G4 (faster than FINK's) machines, besides the standard G3 
+  	binaries. Also, they tend to update their binaries faster than FINK.
+  </li>
+  
+  <li>
+  	<a href="http://www.thalictrum.com/">Thalictrum</a> offers optimized binaries
+  	for both Intel and PowerPC Macs.
+  </li>
 
   <li>The <a href="http://fink.sourceforge.net/">FINK</a> project provides LAME
   binaries compiled for MacOS X.</li>

@@ -341,7 +341,7 @@ href="mailto:rjamorim@users.sourceforge.net">Webmaster</a>.</i></p>
   </li>
   
   <li>
-  	<a href="http://www.audioease.com/">Audioease BarbaBatch</a> Batch audio file converter 
+  	<a href="http://www.audioease.com/">Audio Ease BarbaBatch</a> Batch audio file converter 
   	for Macintosh.
   </li>
   

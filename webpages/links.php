@@ -404,8 +404,8 @@
 	</li>
 	
 	<li>
-		<a href="http://www.blazemp.com/">Blaze Media Pro</a> audio jukebox, editor,
-		converter and more for Windows.
+		<a href="http://www.blazemp.com/">Blaze Media Pro</a> audio/video converter, 
+		editor, CD/DVD burner, and more for Windows.
 	</li>
 	
 	<li>
@@ -457,8 +457,8 @@
 	</li>
 	
 	<li>
-		<a href="http://www.ejay.de/">eJay DJ Mix Station / MP3 Easy / MP3 Station 
-		/ Music Cleaning Studio / MP3 Pro</a> Various Windows music tools, using Gogo.
+		<a href="http://www.ejay.com/home/">eJay DJ Mix Station / Dance eJay</a> 
+		Various Windows DJ software, using Gogo.
 	</li>
 	
 	<li>

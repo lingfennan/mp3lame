@@ -100,11 +100,9 @@
 </p>
 
 <p>
-	Even more MP3 decoder bugs can be found at <a
-	href="http://players.shoutclub.net/wavcompare/">MP3 Player Quality Comparson
-	Site</a> and <a href="http://privatewww.essex.ac.uk/~djmrob/mp3decoders/">MP3
-	decoder tests</a>. Both sites document severe flaws in several popular
-	decoders.
+	Even more MP3 decoder bugs can be found at <a 
+	href="http://mp3decoders.mp3-tech.org/">MP3 decoder tests</a>. Both sites 
+	document severe flaws in several popular decoders.
 </p>
 
 <p>Test samples:</p>

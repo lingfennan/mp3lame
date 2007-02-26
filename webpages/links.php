@@ -127,11 +127,6 @@
 	</li>
 	
 	<li>
-		<a href="http://sourceforge.net/projects/jbm2/">jbm2</a> A KDE jukebox
-		style application for public places (bars, pubs, etc.)
-	</li>
-	
-	<li>
 		<a href="http://www.transcoding.org/">Transcode</a> Several command line
 		utilities to transcode several audio and video formats.
 	</li>

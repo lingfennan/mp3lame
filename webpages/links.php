@@ -292,11 +292,6 @@
 	</li>
 	
 	<li>
-		<a href="http://www.dbpoweramp.com">dBpowerAMP</a> (Windows) Rip and encode 
-		to/from mp3, wma, vorbis and other audio formats.
-	</li>
-	
-	<li>
 		<a href="http://www.skillreactor.org/tools/index.htm">EnLAMEr</a> (Windows) 
 		frontend for lame.exe
 	</li>
@@ -387,6 +382,11 @@
 		<a href="http://www.pinnaclesys.com/ProductPage_n.asp?Product_ID=1150&amp;Langue_ID=7">
 		MyMP3</a> Windows jukebox software from Pinnacle.
 	</li>-->
+   
+   <li>
+		<a href="http://www.dbpoweramp.com">dBpowerAMP</a> (Windows) Rip and encode 
+		to/from mp3, wma, vorbis and other audio formats.
+	</li>
 	
 	<li>
 		<a href="http://www.ezbsystems.com/ultraiso/">UltraISO</a> ISO CD image 

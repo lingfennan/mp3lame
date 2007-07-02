@@ -85,7 +85,7 @@
 	</li>
 	
 	<li>
-		Powerfull and easy to use presets.
+		Powerful and easy to use presets.
 	</li>
 	
 	<li>

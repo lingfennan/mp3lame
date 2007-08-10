@@ -70,7 +70,7 @@
 	</li>
 	
 	<li>
-		<a href="http://www.turnstyle.com/andromeda">andromeda</a> (PHP and ASP)
+		<a href="http://www.turnstyle.com/andromeda/">andromeda</a> (PHP and ASP)
 		Dynamically presents collections of mp3s as streaming web sites.
 	</li>
 	
@@ -521,9 +521,9 @@ by not respecting the terms and conditions of our license.</h4>
 <p><strong>If you want your company name to be removed from this list because
 you are now complying with our license, please contact us.</strong></p>
 
-<hr />
+<hr />-->
 
-<h3><a name="Binaries">LAME Binaries:</a></h3>-->
+<h3><a name="Binaries">LAME Binaries:</a></h3>
 
 <h4>Linux:</h4>
 

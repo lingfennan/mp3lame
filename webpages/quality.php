@@ -200,16 +200,6 @@
 	encoder l3enc also has the same problems.
 </p>
                                 
-<ul>
-
-  <li>
-	  <a href="http://cegt201.bradley.edu/~jodaman/dev/mp3">Joda's Space</a> The
-	  originator of this ftb_test.wv, and a rare example of the right way to test
-	  encoders!
-  </li>
-  
-</ul>
-
 <h4>
 	<a href="http://lame.sourceforge.net/download/samples">testsignal2.wv</a>
 	Subtle pre-echo test case. (0.3M - about 5 seconds)
@@ -319,8 +309,7 @@ pre-echo reference sample (0.5M - about 7 seconds)
 </h4>
 				
 <p>
-	Sent by Naoki SHIBATA - shibatch at geocities.co.jp, see <a
-	href="http://www.geocities.co.jp/Technopolis/9674/lametest/index.html">lametest</a>.
+	Sent by Naoki SHIBATA - shibatch at geocities.co.jp.
 	Naoki can hear noise in the left channel, but only when using a good pair of
 	headphones. It goes away when joint stereo is not used. Comparing with FhG, 
 	it looks like LAME is toggling back and forth between MS and regular stereo 

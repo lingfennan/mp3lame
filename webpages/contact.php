@@ -37,9 +37,9 @@
 <p>
 	<a
 	href="http://www.mail-archive.com/mp3encoder%40minnie.tuhs.org/">Archives</a>
-	are also available (older archives:<a
+	are also available (older archives: <!--<a
 	href="http://www.mail-archive.com/mp3encoder%40minnie.cs.adfa.edu.au/"> October
-	2000 - Sept 2001</a> and <a
+	2000 - Sept 2001</a> and --><a
 	href="http://www.mail-archive.com/mp3encoder%40geek.rcc.se">before October
 	2000</a>)
 </p>
@@ -66,7 +66,7 @@
 <h3>IRC</h3>
 
 <p>
-	Some developers and other interested parties can periodically be found on the
+	Some developers and other interested parties can eventually be found on the
 	#mp3encoder channel on the <a href="http://freenode.net/">FreeNode
 	Network</a>.
 </p>

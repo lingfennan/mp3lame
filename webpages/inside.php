@@ -37,7 +37,7 @@
 	
 	<li>
 		<a
-		href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html">History/ChangeLog</a>
+		href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD">History/ChangeLog</a>
 	</li>
 	
 	<li>
@@ -50,7 +50,7 @@
 <ul>
 	<li>
 		Many improvements in quality in speed over ISO reference software. See <a
-		href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/*checkout*/lame/lame/doc/html/history.html?rev=HEAD">history</a>.
+		href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD">history</a>.
 	</li>
 	
 	<li>

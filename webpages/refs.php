@@ -89,20 +89,20 @@
 <p>
 	Shape of masking curve for tonal sounds (used in ISO model2):<br /> Schroeder,
 	Atal &amp; Hall, "Optimizing digital speech coders by exploiting masking
-	properties of the human ear", JASA Vol.66 N&Acirc;&deg;6 (1979) p 1647-1652
+	properties of the human ear", JASA Vol.66 N&deg;6 (1979) p 1647-1652
 </p>
 
 <p>
 	Tonality estimation used in ISO model1,<br /> ATH shape (sometimes 
 	incorrectly reffered as Painter &amp; Spanias formula):<br /> Terhardt &amp; 
 	Stoll, "Algorithm for extraction of pitch and pitch salience from complex 
-	tonal signals", JASA Vol.71 N&Acirc;&deg;3 (1982) p 679-688
+	tonal signals", JASA Vol.71 N&deg;3 (1982) p 679-688
 </p>
 
 <p>
 	Shape of masking curve depending upon stimulus intensity:<br /> Sporer &amp;
 	Brandenburg, "Constraints of filter banks used for perceptual measurement", 
-	JAES Vol.43 N&Acirc;&deg;3 (1995) p 107-115
+	JAES Vol.43 N&deg;3 (1995) p 107-115
 </p>
 
 </div>

@@ -36,7 +36,7 @@
 </p>
 
 <p>
-	<a href="http://www.eas.asu.edu/~Espeech/ndtc/">NDTC Speech and Audio Coding
+	<a href="http://www.eas.asu.edu/~speech/ndtc/">NDTC Speech and Audio Coding
 	Page</a> This page contains a detailed and very well written review article 
 	on psycho-acoustics.
 </p>
@@ -45,15 +45,12 @@
 	Davis Pan has a couple of usefull overviews of MPEG audio encoding:
 	<br /> 
 	<a	href="doc/vol5num2art3.pdf">vol5num2art3.pdf</a>
-	<br/>
-	<a href="http://www.bok.net/~pan">http://www.bok.net/~pan</a>
 </p>
 
 <p>
 	Here are some papers by Frank Baumgarte:
-	<br /> <a
-	href="http://www.tnt.uni-hannover.de/project/coding/audio/perception/publications.html">
-	http://www.tnt.uni-hannover.de/project/coding/audio/perception/publications.html</a>
+	<br /> <a href="http://www.tnt.uni-hannover.de/papers/view.php?ind=Baumgarte">
+	http://www.tnt.uni-hannover.de/papers/view.php?ind=Baumgarte</a>
 	<br/> The paper by Baumgarte, Ferekidis and Fuchs describes an alternative
 	psycho-acoustic model for MPEG encoding.
 </p>
@@ -63,12 +60,6 @@
 	project). The assocated paper gives some good information on audio encoding.
 	<br/> <a
 	href="http://www-ccrma.stanford.edu/~bosse/">http://www-ccrma.stanford.edu/~bosse/</a>
-</p>
-
-<p>
-	Here is some very detailed documentation on a parallel layer II encoder:<br/><a
-	href="http://www.ece.miami.edu/~fernando/html/thesis/thesis.html">
-	http://www.ece.miami.edu/~fernando/html/thesis/thesis.html</a>
 </p>
 
 <p>

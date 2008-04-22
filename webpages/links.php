@@ -603,16 +603,16 @@ you are now complying with our license, please contact us.</strong></p>
 
 </ul>
 
-<!-- <h4>Solaris:</h4>
+<h4>Solaris:</h4>
 
 <ul>
 
 	<li>
-  		<a href="http://www.rarewares.org/">RareWares</a> provides up-to-date
-		binaries for Sun Solaris, both SPARC and x86 architectures.
+  		<a href="http://www.sunfreeware.com/">Sunfreeware</a> provides up-to-date
+		binaries for several versions of Sun Solaris, both SPARC and x86 architectures.
 	</li>
 
-</ul>-->
+</ul>
 
 <h4>Etc.:</h4>
 

@@ -294,6 +294,11 @@
 	</li>
    
    <li>
+      <a href="http://slideplay.blogspot.com">jtvmaker</a> (Java) A web slideshow 
+      generating and photo sharing tool using LAME.
+   </li>
+   
+   <li>
       <a href="http://www.wavosaur.com/">Wavosaur</a> Free audio editor and batch 
       processor.
    </li>

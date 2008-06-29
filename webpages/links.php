@@ -539,7 +539,7 @@ you are now complying with our license, please contact us.</strong></p>
 	
 	<li>
 		<a href="http://freshrpms.net/">FreshRPMs</a> offers Linux RPM <a
-		href="http://bordeaux.freshrpms.net/rpm.html?id=1203">packages for several
+		href="http://bordeaux.freshrpms.net/rpm.html?id=1473">packages for several
 		popular RPM-based distributions</a>, including Fedora Core.
 	</li>
 
@@ -631,8 +631,8 @@ you are now complying with our license, please contact us.</strong></p>
 <ul>
 
 	<li>
-		For those of you that just wont give up on your Amiga, check <a
-		href="http://www.honeypot.net/audio/">The Amiga Alternative Audio Page</a> 
+		For those of you that just won't give up on your Amiga, check <a
+		href="http://honeypot.net/amiga-alternative-audio-page">The Amiga Alternative Audio Page</a> 
 		or <a href="http://amiga.sourceforge.net/">Amiga.SF</a>.
 	</li>
 
@@ -683,8 +683,8 @@ you are now complying with our license, please contact us.</strong></p>
 	</li>
 	
 	<li>
-		<a href="http://bladeenc.mp3.no">BladeEnc</a> One of the first free 
-		encoders for Linux. Development has stopped at version 0.94.1. Quality is 
+		<a href="http://www2.arnes.si/~mmilut/BladeEnc.html">BladeEnc</a> One of the first free 
+		encoders for Linux. Development has stopped at version 0.94.2. Quality is 
 		not satisfactory.
 	</li>
 	

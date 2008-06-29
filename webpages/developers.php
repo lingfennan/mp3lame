@@ -107,6 +107,11 @@
 		<td><a href="http://www.rjamorim.com">Roberto Amorim</a></td>
 		<td>Web pages and documentation.</td>
 	</tr>
+   
+   <tr>
+		<td><a href="http://www.ime.usp.br/~rbrito/">Rog&eacute;rio Brito</a></td>
+		<td>Debian packaging, debugging.</td>
+	</tr>
 	
 	<tr>
 		<td><a href="http://sourceforge.net/users/jd-">John Dahlstrom</a></td>

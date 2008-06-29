@@ -44,7 +44,7 @@
 	2000</a>)
 </p>
 
-<h3>LAME developement mailing list</h3>
+<h3>LAME development mailing list</h3>
 
 <p>
 	<a href="http://lists.sourceforge.net/lists/listinfo/lame-dev">The lame-dev

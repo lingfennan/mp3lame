@@ -26,11 +26,12 @@
 </div>
 
 <p>
-	LAME is an MPEG Audio Layer III (MP3) encoder licensed under the LGPL.
+	LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the 
+	LGPL.
 </p>
 
 <h3 id="latest_release">Latest LAME release: <a href="download.php">v3.98</a>
-(September 2006)</h3>
+(July 2008)</h3>
 
 <p>
 	LAME development started around mid-1998. Mike Cheng started it as a patch

@@ -29,7 +29,7 @@
 	LAME is an MPEG Audio Layer III (MP3) encoder licensed under the LGPL.
 </p>
 
-<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.97</a>
+<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.98</a>
 (September 2006)</h3>
 
 <p>

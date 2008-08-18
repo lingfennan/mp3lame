@@ -277,6 +277,11 @@
 <h3><a name="ClosedSource">Free (closed source) software which supports or uses LAME:</a></h3>
 
 <ul>
+	
+	<li>
+		<a href="http://www.foobar2000.org">Foobar2000</a> (Windows) an audio player with spartan
+		interface but lots of components and an almost fanatical focus on audio quality.
+	</li>
 
 	<li>
 		<a href="http://www.audiograbber.com-us.net">Audiograbber</a> (Windows) CD 

@@ -642,7 +642,7 @@ you are now complying with our license, please contact us.</strong></p>
 	<li>
 		<a href="http://www.initialt.org/">Takehiro Tominaga</a> has done some 
 		amazing work on LAME	recently (see <a
-		href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html?revision=HEAD">
+		href="http://lame.cvs.sourceforge.net/*checkout*/lame/lame/doc/html/history.html">
 		history</a>). His versions are available <a 
 		href="http://www.initialt.org/lame-beta/">here (source code only)</a>. 
 		Fortunately for us, Takehiro takes the time to fold many of his 

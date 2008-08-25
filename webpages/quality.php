@@ -476,8 +476,7 @@ pre-echo reference sample (0.5M - about 7 seconds)
 </h4>
 
 <p>
-	Sent by Naoki SHIBATA, shibatch at geocities.co.jp, see <a
-	href="http://www.geocities.co.jp/Technopolis/9674/lametest/index.html">lametest</a>.
+	Sent by Naoki SHIBATA, shibatch at geocities.co.jp.
 </p>
 
 <h4>

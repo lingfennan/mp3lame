@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<title>LAME MP3 Encoder :: References</title>
 	<meta name="author" content="Roberto Amorim - roberto@rjamorim.com" />
@@ -31,35 +31,31 @@
 </p>
 
 <p>
-	<a href="http://www.mp3-tech.org">www.mp3-tech.org</a> In the programmers'
-	corner you can find links to much more documentation.
+	You can find links to lots of documentation at <a 
+	href="http://www.mp3-tech.org">www.mp3-tech.org</a>'s programmers' corner.
 </p>
 
 <p>
 	<a href="http://www.eas.asu.edu/~speech/ndtc/">NDTC Speech and Audio Coding
-	Page</a> This page contains a detailed and very well written review article 
-	on psycho-acoustics.
+	Page</a> contains a detailed and very well written review article on 
+	psycho-acoustics.
 </p>
 
 <p>
-	Davis Pan has a couple of usefull overviews of MPEG audio encoding:
-	<br /> 
-	<a	href="doc/vol5num2art3.pdf">vol5num2art3.pdf</a>
+	Davis Pan has <a href="doc/vol5num2art3.pdf">a couple of useful overviews</a>
+	of MPEG audio encoding.
 </p>
 
 <p>
-	Here are some papers by Frank Baumgarte:
-	<br /> <a href="http://www.tnt.uni-hannover.de/papers/view.php?ind=Baumgarte">
-	http://www.tnt.uni-hannover.de/papers/view.php?ind=Baumgarte</a>
-	<br/> The paper by Baumgarte, Ferekidis and Fuchs describes an alternative
-	psycho-acoustic model for MPEG encoding.
+	<a href="http://www.tnt.uni-hannover.de/papers/view.php?ind=Baumgarte">
+	Several papers by Frank Baumgarte</a>. The paper by Baumgarte, Ferekidis and 
+	Fuchs describes an alternative psycho-acoustic model for MPEG encoding.
 </p>
 
 <p>
-	Here is a complete (non MPEG) MDCT based audio encoder (MUS420 class
-	project). The assocated paper gives some good information on audio encoding.
-	<br/> <a
-	href="http://www-ccrma.stanford.edu/~bosse/">http://www-ccrma.stanford.edu/~bosse/</a>
+	<a href="http://www-ccrma.stanford.edu/~bosse/">A complete (non MPEG) MDCT 
+	based audio encoder</a> (MUS420 class project). The assocated paper gives 
+	some good information on audio encoding.
 </p>
 
 <p>
@@ -93,7 +89,7 @@
 </p>
 
 <p>
-	Tonality estimation used in ISO model1,<br /> ATH shape (sometimes 
+	Tonality estimation used in ISO model 1,<br /> ATH shape (sometimes 
 	incorrectly reffered as Painter &amp; Spanias formula):<br /> Terhardt &amp; 
 	Stoll, "Algorithm for extraction of pitch and pitch salience from complex 
 	tonal signals", JASA Vol.71 N&deg;3 (1982) p 679-688

@@ -773,11 +773,6 @@ tests:</i></a></h3>
 	</li>
 	
 	<li>
-		<a href="http://mitiok.maresweb.org/">Dmitry Kutsanov's site</a> is 
-		extremely useful!
-	</li>
-	
-	<li>
 		<a href="http://www.bitburners.com">BitBurners</a> - The CD-R and MP3 
 		resource
 	</li>

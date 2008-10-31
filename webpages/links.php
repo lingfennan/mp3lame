@@ -233,9 +233,14 @@ LAME:</a></h3>
 	</li>
 	
 	<li>
-		<a href="http://www.labdv.com/dvdx/">DVDx</a> DVD to 
-		VCD/SVCD/AVI(XviD...) one-step converter.
+		<a href="http://www.labdv.com/dvdx/">DVDx</a> DVD to VCD/SVCD/AVI(XviD...) 
+      one-step converter.
 	</li>
+   
+   <li>
+      <a href="http://www.bonkenc.org/">Bonk Encoder</a> Yet another CD
+      ripper, encoder &amp; converter that uses LAME for MP3 encoding.
+   </li>
 	
 	<li>
 		<a href="http://www.omniencoder.com/">OmniEncoder</a> a fully 
@@ -378,6 +383,11 @@ LAME:</a></h3>
 		<a href="http://www.steinberg.de/25_1.html">WaveLab</a> Digital Audio 
 		editing software.
 	</li>
+   
+   <li>
+      <a href="http://www.mackie.com/products/tracktion3/">Mackie Tracktion</a>
+      a sequencer that uses LAME to export to MP3.
+   </li>
 	
 	<li>
 		<a href="http://www.goldwave.com/">Goldwave</a> Audio editor for Windows.

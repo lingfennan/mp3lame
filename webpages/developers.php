@@ -33,7 +33,7 @@
 <p>
 	LAME was originally developed by Mike Cheng, from 1998 to 1999. After he
 	retired, the project started being maintained by Mark Taylor till early 2003.
-	After 2003, the project became managed by core developpers' teamwork, with no
+	After 2003, the project became managed by core developers' teamwork, with no
 	official hierarchy or leadership.
 </p>
 

@@ -108,11 +108,11 @@
 <ul>
 
 	<li>
-		<a href="links.php#OpenSource">Software which uses LAME</a>.
+		<a href="links.php#Contents">Software which uses LAME</a>.
 	</li>
 	
 	<li>
-		<a href="links.php#Binaries">MP3 Related Links</a>.
+		<a href="links.php#MP3_general">MP3 Related Links</a>.
 	</li>
 	
 	<li>

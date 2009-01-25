@@ -67,6 +67,32 @@
 	actively developed.
 </p>
 
+<h3 id="latest_release">Quick Links</h3>
+
+<ul>
+
+   <li>
+      <a href="contact.php">Contact</a> - to get in touch with LAME developers, 
+      with other LAME users, or to submit bug reports.
+   </li>
+   
+   <li>
+      <a href="download.php">Download</a> - to obtain the latest LAME source
+      code.
+   </li>
+   
+   <li>
+      <a href="links.php">Links</a> - to get to know about software using LAME,
+      obtain precompiled LAME binaries from external sites, and discover more
+      information about MP3.
+   </li>
+   
+   <li>
+      <a href="developers.php">Developers</a> - the people behind the LAME project.
+   </li>
+
+</ul>
+
 </div>
 <?php include("footer.html") ?>
 </div>

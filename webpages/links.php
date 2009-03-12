@@ -53,8 +53,9 @@
 	<li><a href="#Patents">Patent Information</a></li>
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="OpenSource">
-Free (open source) software which supports or uses LAME:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="OpenSource">Free (open source) software 
+which supports or uses LAME:</a></h3>
 
 <p><b>&nbsp;&nbsp;<a name="Multiplatform">Multiplatform:</a></b></p>
 
@@ -279,8 +280,9 @@ etc.): </a></b></p>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="ClosedSource">
-Free (closed source) software which supports or uses LAME:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="ClosedSource">Free (closed source) software 
+which supports or uses LAME:</a></h3>
 
 <ul>
 	
@@ -369,8 +371,9 @@ Free (closed source) software which supports or uses LAME:</a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Commercial">
-Commercial software which supports or uses LAME:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Commercial">Commercial software which 
+supports or uses LAME:</a></h3>
 
 <ul>
 
@@ -544,8 +547,8 @@ you are now complying with our license, please contact us.</strong></p>
 
 <hr />-->
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Binaries">
-LAME Binaries:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Binaries">LAME Binaries:</a></h3>
 
 <h4>Linux:</h4>
 
@@ -654,8 +657,8 @@ LAME Binaries:</a></h3>
 
 <hr />
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Alternatives">
-Other MP3 Encoders:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Alternatives">Other MP3 Encoders:</a></h3>
 
 <ul>
 
@@ -727,8 +730,9 @@ Other MP3 Encoders:</a></h3>
 
 <hr></hr>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Comparisons">
-MP3 Encoder Comparisons based on <i>listening tests:</i></a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Comparisons">MP3 Encoder Comparisons 
+based on <i>listening tests:</i></a></h3>
 
 <ul>
 
@@ -749,8 +753,8 @@ MP3 Encoder Comparisons based on <i>listening tests:</i></a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="MP3_sites">
-MP3 Encoding Web Sites:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="MP3_sites">MP3 Encoding Web Sites:</a></h3>
 
 <ul>
 
@@ -767,8 +771,8 @@ MP3 Encoding Web Sites:</a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="MP3_general">
-General MP3 Web Sites:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="MP3_general">General MP3 Web Sites:</a></h3>
 
 <ul>
 
@@ -806,8 +810,9 @@ General MP3 Web Sites:</a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Soft_hard">
-MP3 Related Software and Hardware:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Soft_hard">MP3 Related Software and 
+Hardware:</a></h3>
 
 <ul>
 
@@ -881,8 +886,9 @@ MP3 Related Software and Hardware:</a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Line_in">
-MP3 Encoding direct from line-in:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Line_in">MP3 Encoding directly from 
+line-in:</a></h3>
 
 <ul>
 
@@ -908,8 +914,8 @@ MP3 Encoding direct from line-in:</a></h3>
 
 </ul>
 
-<h3><a href="#Contents"><sup><font size="-1">^</font></sup></a> <a name="Patents">
-Patent Information:</a></h3>
+<h3><a href="#Contents" style="text-decoration: none"><sup><font 
+size="-1">^</font></sup></a> <a name="Patents">Patent Information:</a></h3>
 
 <ul>
 

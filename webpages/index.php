@@ -30,7 +30,7 @@
 	LGPL.
 </p>
 
-<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.98.1</a>
+<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.98.2</a>
 (September 2008)</h3>
 
 <p>

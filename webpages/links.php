@@ -578,11 +578,6 @@ size="-1">^</font></sup></a> <a name="Binaries">LAME Binaries:</a></h3>
 		functionality.
 	</li>
 	
-	<li>
-		From the Encoder/Windows section of <a
-		href="http://www.mp3-tech.org">www.mp3-tech.org</a>.
-	</li>
-   
    <li>
       <a href="http://lame.buanzo.com.ar/">Arturo "Buanzo" Busleiman</a>
       offers up-to-date Windows and Mac OS LAME compiles on his 

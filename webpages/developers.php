@@ -54,11 +54,6 @@
 	</tr>
 	
 	<tr>
-		<td width="30%"><a href="http://www.mp3-tech.org">Gabriel Bouvigne</a></td>
-		<td>Tuning, optimizations, psychoacoustics...</td>
-	</tr>
-	
-	<tr>
 		<td><a href="http://sourceforge.net/users/robert/">Robert Hegemann</a></td>
 		<td>Tuning, optimizations, psychoacoustics...</td>
 	</tr>
@@ -69,18 +64,20 @@
 	</tr>
 	
 	<tr>
-		<td><a href="http://sourceforge.net/users/markt">Mark Taylor</a></td>
-		<td>Honorary maintainer.</td>
-	</tr>
-	
-	<tr>
 		<td><a href="http://www.initialt.org">Takehiro Tominaga</a></td>
 		<td>Psychoacoustics, bitstream, optimizations, assembly code...</td>
 	</tr>
 	
 	<tr><th colspan="2">Primary developers - Retired:</th></tr>
-	
-	<tr>
+
+    <tr>
+      <td width="30%">
+        <a href="http://www.mp3-tech.org">Gabriel Bouvigne</a>
+      </td>
+      <td>Tuning, optimizations, psychoacoustics...</td>
+    </tr>
+
+    <tr>
 		<td><a href="http://sourceforge.net/users/mikecheng/">Mike Cheng</a></td>
 		<td>Maintainer of LAME v2.x.</td>
 	</tr>

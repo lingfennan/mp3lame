@@ -666,6 +666,13 @@ size="-1">^</font></sup></a> <a name="Alternatives">Other MP3 Encoders:</a></h3>
 		Fortunately for us, Takehiro takes the time to fold many of his 
 		improvements back into LAME.
 	</li>
+   
+   <li>
+      George Kotorlis created a multithreaded version of LAME called <a 
+      href="http://www.fiberpool.de/en/downloads.html">fpMP3Enc</a> based on 
+      his multicore framework <a href="http://www.fiberpool.de/en/index.html">
+      Fiber Pool</a>.
+   </li>
 	
 	<li>
 		<a href="http://www.marinecat.net/free/windows/mct_free.htm">GOGO-no-coda 

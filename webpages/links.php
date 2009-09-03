@@ -405,6 +405,12 @@ supports or uses LAME:</a></h3>
 		<a href="http://www.ezbsystems.com/ultraiso/">UltraISO</a> ISO CD image 
 		builder, editor and extractor.
 	</li>
+	
+	<li>
+		<a href="http://www.jrmediacenter.com/">J. River Media Center</a> a media
+		center software that supports LAME for ripping, transcoding, and gapless 
+		playback.
+	</li>
    
    <li>
       <a href="http://www.acondigital.com/us_Acoustica1.html">Acoustica</a>

@@ -9,7 +9,7 @@
 	<meta name="cvs-version" content="$Id$" />
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<link rel="stylesheet" type="text/css" href="styles/lame.css" />
-	<!--[if IE]>
+	<!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" href="styles/ie.css" />
 	<![endif]-->
 </head>

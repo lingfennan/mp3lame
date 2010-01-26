@@ -67,6 +67,11 @@ which supports or uses LAME:</a></h3>
 	</li>
 	
 	<li>
+		<a href="http://traverso-daw.org/">Traverso</a>, a cross-platform Digital
+		Audio Workstation (DAW).
+	</li>
+	
+	<li>
 		<a href="http://www.turnstyle.com/andromeda/">andromeda</a> (PHP and ASP)
 		Dynamically presents collections of mp3s as streaming web sites.
 	</li>

@@ -63,6 +63,11 @@
 		<td>Multiplatform configuration, libraries handling, release management...</td>
 	</tr>
 
+	<tr>
+		<td><a href="http://www.ime.usp.br/~rbrito/">Rog&eacute;rio Brito</a></td>
+		<td>Debian packaging, debugging.</td>
+	</tr>
+
 	<tr><th colspan="2">Primary developers - Retired:</th></tr>
 
     <tr>
@@ -103,11 +108,6 @@
 	<tr>
 		<td><a href="http://www.rjamorim.com">Roberto Amorim</a></td>
 		<td>Web pages and documentation.</td>
-	</tr>
-
-   <tr>
-		<td><a href="http://www.ime.usp.br/~rbrito/">Rog&eacute;rio Brito</a></td>
-		<td>Debian packaging, debugging.</td>
 	</tr>
 
 	<tr>

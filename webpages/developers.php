@@ -131,6 +131,11 @@
 	</tr>
 
 	<tr>
+		<td><a href="http://sourceforge.net/users/jwflynn1">Joseph Flynn</a></td>
+		<td>LAME DirectShow Filter.</td>
+	</tr>
+
+	<tr>
 		<td><a href="http://sourceforge.net/users/pgubanov">Peter Gubanov</a></td>
 		<td>LAME DirectShow Filter.</td>
 	</tr>

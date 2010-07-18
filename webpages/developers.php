@@ -161,6 +161,11 @@
 	</tr>
 
 	<tr>
+		<td><a href="http://sourceforge.net/users/jaz001">Josep Maria Antol&iacute;n Segura</a></td>
+		<td>Documentation.</td>
+	</tr>
+
+	<tr>
 		<td><a href="http://sourceforge.net/users/kylev/">Kyle VanderBeek</a></td>
 		<td>Python bindings, website clean-up.</td>
 	</tr>

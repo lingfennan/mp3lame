@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -281,6 +281,11 @@ etc.): </a></b></p>
 	<li>
 		<a href="http://sourceforge.net/projects/bbc2mp3/">bbc2mp3</a> a tool for
 		saving BBC "Listen Again" programmes as MP3 files.
+	</li>
+
+	<li>
+		<a href="http://www.autohotkey.net/~aaronbewza/Aaron's%20Sonar%20Mp3%20Patch/index.html">Aaron's Sonar Mp3 Patch</a>
+		a Cakewalk Sonar plugin written in AutoHotkey.
 	</li>
 
 </ul>

@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -38,7 +38,7 @@
 
 <ul>
 
-	<li>The current release version of LAME is 3.98.3</li>
+	<li>The current release version of LAME is 3.99</li>
 
 	<!-- Comment/hide this item if there is no current beta.
 	<li>The most recent beta release of LAME is 3.97beta3.</li>-->
@@ -47,7 +47,7 @@
 
 <p>
 	Source code tarballs of these versions <a
-	href="http://sourceforge.net/project/showfiles.php?group_id=290&package_id=309">can
+	href="http://sourceforge.net/projects/lame/files/lame/3.99/">can
 	be downloaded from SourceForge</a>.
 </p>
 

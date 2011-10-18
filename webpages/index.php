@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -30,8 +30,8 @@
 	LGPL.
 </p>
 
-<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.98.4</a>
-(March 2010)</h3>
+<h3 id="latest_release">Latest LAME release: <a href="download.php">v3.99</a>
+(October 2011)</h3>
 
 <p>
 	LAME development started around mid-1998. Mike Cheng started it as a patch

@@ -244,7 +244,7 @@ etc.): </a></b></p>
 	</li>
    
    <li>
-      <a href="http://www.bonkenc.org/">Bonk Encoder</a> Yet another CD
+      <a href="http://www.freac.org/">fre:ac - free audio converter (formerly known as Bonk Encoder)</a> Yet another CD
       ripper, encoder &amp; converter that uses LAME for MP3 encoding.
    </li>
 	
